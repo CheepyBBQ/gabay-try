@@ -1,0 +1,12 @@
+# Machine-specific settings (database login)
+config.local.php
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Packaged copies
+*.zip
